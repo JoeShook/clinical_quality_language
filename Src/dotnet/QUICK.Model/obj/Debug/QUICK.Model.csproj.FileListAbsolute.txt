@@ -6,3 +6,4 @@ C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\D
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.csproj.CopyComplete
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.dll
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.pdb
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.csproj.AssemblyReference.cache

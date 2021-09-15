@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		UnitTests.testsettings = UnitTests.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQL", "CQL\CQL.csproj", "{5D78895D-AF62-4057-93FA-079F1B77EAD3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQL.Translation", "CQL.Translation\CQL.Translation.csproj", "{8E212062-44E4-4A0C-B730-D472F98F5563}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQL.Translation_UnitTests", "CQL.Translation_UnitTests\CQL.Translation_UnitTests.csproj", "{B5876DF1-E393-4218-BBD1-8C9E4BDE17F7}"
@@ -24,13 +22,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{18B3DA
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quick", "quick\quick.csproj", "{74758840-3A1E-4314-86D6-840932A3A4C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quick", "quick\quick.csproj", "{74758840-3A1E-4314-86D6-840932A3A4C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{440BFFAC-24BF-4C87-9C13-541FF220D566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "model", "model\model.csproj", "{440BFFAC-24BF-4C87-9C13-541FF220D566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model.tests", "_tests\model.tests\model.tests.csproj", "{871E5E1C-448B-43C3-8901-0388AC4895DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "model.tests", "_tests\model.tests\model.tests.csproj", "{871E5E1C-448B-43C3-8901-0388AC4895DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tests", "_tests", "{958ADFAF-D1BB-4154-93FE-B8F2E7E3D6A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "elm", "elm\elm.csproj", "{714B8271-FFF2-4071-9AEB-3E25A5150B50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "schema", "schema", "{BE8E03DC-8383-4328-90D4-521E6C28042B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "elm", "elm", "{08451B87-3BC1-4C45-9CED-426FF3E69D68}"
+	ProjectSection(SolutionItems) = preProject
+		..\cql-lm\schema\elm\clinicalexpression.xsd = ..\cql-lm\schema\elm\clinicalexpression.xsd
+		..\cql-lm\schema\elm\cqlannotations.xsd = ..\cql-lm\schema\elm\cqlannotations.xsd
+		..\cql-lm\schema\elm\expression.xsd = ..\cql-lm\schema\elm\expression.xsd
+		..\cql-lm\schema\elm\GenerateModelClasses.bat = ..\cql-lm\schema\elm\GenerateModelClasses.bat
+		..\cql-lm\schema\elm\library.xsd = ..\cql-lm\schema\elm\library.xsd
+		..\cql-lm\schema\elm\types.xsd = ..\cql-lm\schema\elm\types.xsd
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUICK.Model", "QUICK.Model\QUICK.Model.csproj", "{C376123B-C521-4DD4-B92E-48499798A367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cql", "cql\cql.csproj", "{15E38E13-6953-4A62-9140-D84460AA582A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,10 +54,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D78895D-AF62-4057-93FA-079F1B77EAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D78895D-AF62-4057-93FA-079F1B77EAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D78895D-AF62-4057-93FA-079F1B77EAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D78895D-AF62-4057-93FA-079F1B77EAD3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8E212062-44E4-4A0C-B730-D472F98F5563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8E212062-44E4-4A0C-B730-D472F98F5563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E212062-44E4-4A0C-B730-D472F98F5563}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -66,12 +78,26 @@ Global
 		{871E5E1C-448B-43C3-8901-0388AC4895DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871E5E1C-448B-43C3-8901-0388AC4895DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871E5E1C-448B-43C3-8901-0388AC4895DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714B8271-FFF2-4071-9AEB-3E25A5150B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714B8271-FFF2-4071-9AEB-3E25A5150B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714B8271-FFF2-4071-9AEB-3E25A5150B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714B8271-FFF2-4071-9AEB-3E25A5150B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C376123B-C521-4DD4-B92E-48499798A367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C376123B-C521-4DD4-B92E-48499798A367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C376123B-C521-4DD4-B92E-48499798A367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C376123B-C521-4DD4-B92E-48499798A367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E38E13-6953-4A62-9140-D84460AA582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E38E13-6953-4A62-9140-D84460AA582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E38E13-6953-4A62-9140-D84460AA582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E38E13-6953-4A62-9140-D84460AA582A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{871E5E1C-448B-43C3-8901-0388AC4895DC} = {958ADFAF-D1BB-4154-93FE-B8F2E7E3D6A3}
+		{BE8E03DC-8383-4328-90D4-521E6C28042B} = {BE1EB706-C5B7-4051-AAA5-5C8EB7E9E2C2}
+		{08451B87-3BC1-4C45-9CED-426FF3E69D68} = {BE8E03DC-8383-4328-90D4-521E6C28042B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B002900F-B5C6-48B3-B5E4-71ADDA9A44A9}

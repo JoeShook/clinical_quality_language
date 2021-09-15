@@ -1,2 +1,11 @@
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.csproj.AssemblyReference.cache
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\CQL.ELM.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\CQL.ELM.pdb
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\Antlr4.Runtime.net45.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\QUICK.Model.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\QUICK.Model.pdb
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\bin\Debug\Antlr4.Runtime.net45.xml
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.csproj.CopyComplete
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.pdb

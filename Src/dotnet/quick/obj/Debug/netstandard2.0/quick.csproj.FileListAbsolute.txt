@@ -654,3 +654,4 @@ C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\quick\bin\Debug\n
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\quick\obj\Debug\netstandard2.0\quick.Properties.Resources.resources
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\quick\obj\Debug\netstandard2.0\quick.csproj.GenerateResource.cache
 C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\quick\obj\Debug\netstandard2.0\quick.csproj.AssemblyReference.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\quick\bin\Debug\netstandard2.0\schema\v1.4\quick.designer.cs
