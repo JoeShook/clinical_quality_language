@@ -1,0 +1,8 @@
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\bin\Debug\QUICK.Model.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\bin\Debug\QUICK.Model.pdb
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\bin\Debug\Antlr4.Runtime.net45.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\bin\Debug\Antlr4.Runtime.net45.xml
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.csproj.CopyComplete
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\QUICK.Model\obj\Debug\QUICK.Model.pdb

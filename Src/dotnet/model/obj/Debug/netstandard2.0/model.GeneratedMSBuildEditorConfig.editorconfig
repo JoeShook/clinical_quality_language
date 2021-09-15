@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = model.cql.hl7.org
+build_property.ProjectDir = c:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\

@@ -1,0 +1,10 @@
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.csproj.AssemblyReference.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.AssemblyInfoInputs.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.AssemblyInfo.cs
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\bin\Debug\netstandard2.0\model.cql.hl7.org.deps.json
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\bin\Debug\netstandard2.0\model.cql.hl7.org.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\bin\Debug\netstandard2.0\model.cql.hl7.org.pdb
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.cql.hl7.org.dll
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\model\obj\Debug\netstandard2.0\model.cql.hl7.org.pdb

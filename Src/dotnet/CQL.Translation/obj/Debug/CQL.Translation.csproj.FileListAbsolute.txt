@@ -1,0 +1,2 @@
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.Translation\obj\Debug\CQL.Translation.csproj.AssemblyReference.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.Translation\obj\Debug\CQL.Translation.csproj.CoreCompileInputs.cache

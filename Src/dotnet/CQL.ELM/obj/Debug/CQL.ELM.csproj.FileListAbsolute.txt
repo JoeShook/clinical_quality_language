@@ -1,0 +1,2 @@
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.csproj.AssemblyReference.cache
+C:\Source\GitHub\JoeShook\clinical_quality_language\Src\dotnet\CQL.ELM\obj\Debug\CQL.ELM.csproj.CoreCompileInputs.cache
