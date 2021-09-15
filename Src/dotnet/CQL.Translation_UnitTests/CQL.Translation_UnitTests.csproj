@@ -69,10 +69,6 @@
       <Project>{8e212062-44e4-4a0c-b730-d472f98f5563}</Project>
       <Name>CQL.Translation</Name>
     </ProjectReference>
-    <ProjectReference Include="..\QUICK.Model\QUICK.Model.csproj">
-      <Project>{c376123b-c521-4dd4-b92e-48499798a367}</Project>
-      <Name>QUICK.Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

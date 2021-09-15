@@ -59,10 +59,6 @@
       <Project>{5d78895d-af62-4057-93fa-079f1b77ead3}</Project>
       <Name>CQL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\QUICK.Model\QUICK.Model.csproj">
-      <Project>{c376123b-c521-4dd4-b92e-48499798a367}</Project>
-      <Name>QUICK.Model</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
